@@ -1,0 +1,10 @@
+body {
+  overflow: hidden;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Set the height of the container to the viewport height */
+  }
+  
